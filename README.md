@@ -8,6 +8,11 @@
 
 ### Diagnostic information
 
+#### Environment
+
+
+#### Logs
+
 <details>
   <summary>flutter run --verbose</summary>
 
