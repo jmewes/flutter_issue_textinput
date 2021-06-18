@@ -1,16 +1,48 @@
-# flutter_issue_textinput
 
-A new Flutter project.
+### Observed result
 
-## Getting Started
+### Expected result
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Steps to reproduce
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Diagnostic information
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<details>
+  <summary>flutter run --verbose</summary>
+
+<!--
+      Run your application with `flutter run --verbose` and attach all the
+      log output below between the lines with the backticks. If there is an
+      exception, please see if the error message includes enough information
+      to explain how to solve the issue.
+-->
+
+```
+```
+
+</details>
+
+<details>
+  <summary>flutter analyze</summary>
+
+<!--
+     Run `flutter analyze` and attach any output of that command below.
+     If there are any analysis errors, try resolving them before filing this issue.
+-->
+
+```
+```
+
+
+</details>
+
+<details>
+  <summary>flutter doctor -v</summary>
+
+<!-- Finally, paste the output of running `flutter doctor -v` here. -->
+
+```
+```
+
+</details>
